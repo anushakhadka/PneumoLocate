@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+pydicom
+pillow
+sqlalchemy
+psycopg2-binary
