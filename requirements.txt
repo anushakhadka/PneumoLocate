@@ -6,3 +6,4 @@ pydicom
 pillow
 sqlalchemy
 psycopg2-binary
+black
